@@ -1,1 +1,1 @@
-[![PBS-tm-Banner.png](https://i.postimg.cc/PJkWm70R/PBS-tm-Banner.png)](https://postimg.cc/47BHGWf6)
+<img src="https://i.postimg.cc/PJkWm70R/PBS-tm-Banner.png" width="300px" />
